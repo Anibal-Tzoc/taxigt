@@ -4,7 +4,7 @@ function initialize(address) {
 	geoCoder.geocode(request, function(result, status){
 		var latlng = new google.maps.LatLng(result[0].geometry.location.lat(), result[0].geometry.location.lng());
 		var myOptions = {
-		  zoom: 10,
+		  zoom: 15,
 		  center: latlng,
 		  mapTypeId: google.maps.MapTypeId.ROADMAP
 		};

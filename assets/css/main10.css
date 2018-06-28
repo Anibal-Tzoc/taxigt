@@ -9,7 +9,7 @@
 
 /* Reset */
 
-	html, body, div, span, object, iframe, h2, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, legend,  caption, tbody, tfoot, thead, tr, th,  article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	html, body, div, span, object, iframe, h2, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, legend,  caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -62,12 +62,6 @@ font-weight: bold;
 	}
 
 /* Basic */
-
-#resistol{
-	height: 100%;
-	overflow: scroll;
-	overflow-y: hidden;
-}
 #lk {
 text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87,0 0 0.2em #f87;
 font-weight: bold;
@@ -257,10 +251,10 @@ input[type=button],label,select{
 		}
 
 		100% {
-			-moz-transform: translate3d(-2000px,0,0);
-			-webkit-transform: translate3d(-2000px,0,0);
-			-ms-transform: translate3d(-2000px,0,0);
-			transform: translate3d(-2000px,0,0);
+			-moz-transform: translate3d(-3000px,0,0);
+			-webkit-transform: translate3d(-3000px,0,0);
+			-ms-transform: translate3d(-3000px,0,0);
+			transform: translate3d(-3000px,0,0);
 		}
 	}
 
@@ -273,10 +267,10 @@ input[type=button],label,select{
 		}
 
 		100% {
-			-moz-transform: translate3d(-2000px,0,0);
-			-webkit-transform: translate3d(-2000px,0,0);
-			-ms-transform: translate3d(-2000px,0,0);
-			transform: translate3d(-2000px,0,0);
+			-moz-transform: translate3d(-3000px,0,0);
+			-webkit-transform: translate3d(-3000px,0,0);
+			-ms-transform: translate3d(-3000px,0,0);
+			transform: translate3d(-3000px,0,0);
 		}
 	}
 
@@ -289,10 +283,10 @@ input[type=button],label,select{
 		}
 
 		100% {
-			-moz-transform: translate3d(-2000px,0,0);
-			-webkit-transform: translate3d(-2000px,0,0);
-			-ms-transform: translate3d(-2000px,0,0);
-			transform: translate3d(-2000px,0,0);
+			-moz-transform: translate3d(-3000px,0,0);
+			-webkit-transform: translate3d(-3000px,0,0);
+			-ms-transform: translate3d(-3000px,0,0);
+			transform: translate3d(-3000px,0,0);
 		}
 	}
 
@@ -305,21 +299,21 @@ input[type=button],label,select{
 		}
 
 		100% {
-			-moz-transform: translate3d(-2000px,0,0);
-			-webkit-transform: translate3d(-2000px,0,0);
-			-ms-transform: translate3d(-2000px,0,0);
-			transform: translate3d(-2000px,0,0);
+			-moz-transform: translate3d(-3000px,0,0);
+			-webkit-transform: translate3d(-3000px,0,0);
+			-ms-transform: translate3d(-3000px,0,0);
+			transform: translate3d(-3000px,0,0);
 		}
 	}
 
 	#bg {
-		background-size: 1800px auto;
+		background-size: 3000px auto;
 		width: 6750px;
 
 	}#map_canvas {
 		 	background-size: auto;
      
-      height:600px ;
+      height:300px ;
 
   }
 
@@ -525,16 +519,10 @@ height:2000px;
 			}
 
 		/* BG */
-		#resistol{
-	height: 100% auto;
-	overflow: scroll;
-	overflow-y: scroll;
-}
 		#map_canvas {
 		 	
      
-      height:600px;
-      
+      height:300px;
 
   }
 
@@ -547,10 +535,10 @@ height:2000px;
 				}
 
 				100% {
-					-moz-transform: translate3d(-2000px,0,0);
-					-webkit-transform: translate3d(-2000px,0,0);
-					-ms-transform: translate3d(-2000px,0,0);
-					transform: translate3d(-2000px,0,0);
+					-moz-transform: translate3d(-1500px,0,0);
+					-webkit-transform: translate3d(-1500px,0,0);
+					-ms-transform: translate3d(-1500px,0,0);
+					transform: translate3d(-1500px,0,0);
 				}
 
 	}
@@ -564,10 +552,10 @@ height:2000px;
 			}
 
 			100% {
-				-moz-transform: translate3d(-2000px,0,0);
-				-webkit-transform: translate3d(-2000px,0,0);
-				-ms-transform: translate3d(-2000px,0,0);
-				transform: translate3d(-2000px,0,0);
+				-moz-transform: translate3d(-1500px,0,0);
+				-webkit-transform: translate3d(-1500px,0,0);
+				-ms-transform: translate3d(-1500px,0,0);
+				transform: translate3d(-1500px,0,0);
 			}
 			}
 
@@ -580,10 +568,10 @@ height:2000px;
 			}
 
 			100% {
-				-moz-transform: translate3d(-2000px,0,0);
-				-webkit-transform: translate3d(-2000px,0,0);
-				-ms-transform: translate3d(-2000px,0,0);
-				transform: translate3d(-2000px,0,0);
+				-moz-transform: translate3d(-1500px,0,0);
+				-webkit-transform: translate3d(-1500px,0,0);
+				-ms-transform: translate3d(-1500px,0,0);
+				transform: translate3d(-1500px,0,0);
 			}
 		}
 
@@ -596,15 +584,15 @@ height:2000px;
 			}
 
 			100% {
-				-moz-transform: translate3d(-2000px,0,0);
-				-webkit-transform: translate3d(-2000px,0,0);
-				-ms-transform: translate3d(-2000px,0,0);
-				transform: translate3d(-2000px,0,0);
+				-moz-transform: translate3d(-1500px,0,0);
+				-webkit-transform: translate3d(-1500px,0,0);
+				-ms-transform: translate3d(-1500px,0,0);
+				transform: translate3d(-1500px,0,0);
 			}
 		}
 
 		#bg {
-			background-size: 1900px auto;
+			background-size: 1500px auto;
 			width: 4500px;
 		} }
 
@@ -620,11 +608,6 @@ height:2000px;
 
 		/* BG */
 
-	#resistol{
-	height: 1000px;
-	overflow: scroll;
-	overflow-y: scroll;
-}
 			@-moz-keyframes bg {
 				0% {
 					-moz-transform: translate3d(0,0,0);
@@ -634,10 +617,10 @@ height:2000px;
 				}
 
 				100% {
-					-moz-transform: translate3d(-2000px,0,0);
-					-webkit-transform: translate3d(-2000px,0,0);
-					-ms-transform: translate3d(-2000px,0,0);
-					transform: translate3d(-2000px,0,0);
+					-moz-transform: translate3d(-1000px,0,0);
+					-webkit-transform: translate3d(-1000px,0,0);
+					-ms-transform: translate3d(-1000px,0,0);
+					transform: translate3d(-1000px,0,0);
 				}
 
 	}
@@ -651,10 +634,10 @@ height:2000px;
 			}
 
 			100% {
-				-moz-transform: translate3d(-2000px,0,0);
-				-webkit-transform: translate3d(-2000px,0,0);
-				-ms-transform: translate3d(-2000px,0,0);
-				transform: translate3d(-2000px,0,0);
+				-moz-transform: translate3d(-1000px,0,0);
+				-webkit-transform: translate3d(-1000px,0,0);
+				-ms-transform: translate3d(-1000px,0,0);
+				transform: translate3d(-1000px,0,0);
 			}
 			}
 
@@ -667,10 +650,10 @@ height:2000px;
 			}
 
 			100% {
-				-moz-transform: translate3d(-2000px,0,0);
-				-webkit-transform: translate3d(-2000px,0,0);
-				-ms-transform: translate3d(-2000px,0,0);
-				transform: translate3d(-2000px,0,0);
+				-moz-transform: translate3d(-1000px,0,0);
+				-webkit-transform: translate3d(-1000px,0,0);
+				-ms-transform: translate3d(-1000px,0,0);
+				transform: translate3d(-1000px,0,0);
 			}
 		}
 
@@ -683,15 +666,15 @@ height:2000px;
 			}
 
 			100% {
-				-moz-transform: translate3d(-2000px,0,0);
-				-webkit-transform: translate3d(-2000px,0,0);
-				-ms-transform: translate3d(-2000px,0,0);
-				transform: translate3d(-2000px,0,0);
+				-moz-transform: translate3d(-1000px,0,0);
+				-webkit-transform: translate3d(-1000px,0,0);
+				-ms-transform: translate3d(-1000px,0,0);
+				transform: translate3d(-1000px,0,0);
 			}
 		}
 
 		#bg {
-			background-size: 2100px auto;/* para desktop*/
+			background-size: 1100px auto;/* para desktop*/
 			width: 2250px;
 		} }
 
@@ -710,15 +693,10 @@ height:2000px;
 			}
 
 		/* BG */
-			#resistol{
-	height: 1000px ;
-	overflow: scroll;
-	overflow-y: scroll;
-}
 		#map_canvas {
 		 	
      
-      height:400px ;
+      height:200px auto;
 
   }
 
@@ -799,7 +777,7 @@ height:2000px;
 
 		#header nav {
 			font-size: 1em;
-height:1200px;
+height:900px;
 
 		}
 
@@ -811,15 +789,11 @@ height:1200px;
 
 		/* BG */
 
-		#resistol{
-	height: 1000px ;
-	overflow: scroll;
-	overflow-y: scroll;
-}
+
 #map_canvas {
 		 	
      
-      height:400px;
+      height:300px;
 
   }
 			@-moz-keyframes bg {
@@ -895,7 +869,6 @@ height:1200px;
 	/* Header */
 
 		#header nav {
-
 			padding: 0 1em;
 height:900px;
 
